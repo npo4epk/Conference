@@ -1,0 +1,11 @@
+//*********************************************
+// @IMPORT
+//*********************************************
+@import "_mixins.scss";
+
+//*********************************************
+// FONTS
+//*********************************************
+
+@include font-face('ProximaNova-Bold', '../fonts/ProximaNova-Bold/ProximaNova-Bold', bold, normal, otf woff woff2 ttf); 
+@include font-face('ProximaNova-Semibold', '../fonts/ProximaNova-Semibold/ProximaNova-Semibold', normal, normal, otf woff woff2 ttf); 
